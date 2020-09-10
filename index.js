@@ -34,7 +34,7 @@ const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 const [r, o, y, g, b, ,v] = colors
 
-// const [, , , , , indg, ] = colors
+const [, , , , , indg, ] = colors
 
 // const { name, color, song, job, partner } = muppet
 
