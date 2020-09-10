@@ -30,8 +30,7 @@ const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ')
 const [Bessie, ,Dolly, Babe, Little] = farmAnimals.split(' ')
 
 const [black_and_white, ,black, pink, ,] = farmAnimals.split(' ')
-
-// const [red, orange, yellow, green, blue, indigo, violet] = colors
+const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 // const [r, o, y, g, b, ,v] = colors
 
